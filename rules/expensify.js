@@ -22,5 +22,6 @@ module.exports = {
                 message: 'Please use an Expensify component from src/components/ instead.',
             }],
         }],
+        'rulesdir/with-onyx-props': 'error',
     },
 };
